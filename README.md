@@ -58,11 +58,6 @@ pl 0,0,0 0,1,0 255,255,255
 cy 50.0,0.0,20.6 0,0,1.0 14.2 21.42 10,0,255
 ```
 
-### Examples
-```bash
-./miniRT sscenes/pokeball.rt
-'''
-
 ### Controls
 - **ESC**: Exit the program
 
